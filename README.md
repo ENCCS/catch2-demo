@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/bast/gtest-demo/actions/workflows/test.yml/badge.svg)](https://github.com/bast/gtest-demo/actions/workflows/test.yml)
+[![Build Status](https://github.com/ENCCS/catch2-demo/actions/workflows/test.yml/badge.svg)](https://github.com/ENCCS/catch2-demo/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/ENCCS/catch2-demo/badge.svg?branch=main)](https://coveralls.io/github/ENCCS/catch2-demo?branch=main)
 [![License](https://img.shields.io/badge/license-%20BSD--3-blue.svg)](../main/LICENSE)
 
